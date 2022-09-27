@@ -13,6 +13,7 @@
 		ED55CDE828D081220070D96E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED55CDE628D081220070D96E /* Main.storyboard */; };
 		ED55CDEA28D081240070D96E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED55CDE928D081240070D96E /* Assets.xcassets */; };
 		ED55CDED28D081240070D96E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED55CDEB28D081240070D96E /* LaunchScreen.storyboard */; };
+		ED55CDF528D090500070D96E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED55CDF428D090500070D96E /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ED55CDE928D081240070D96E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED55CDEC28D081240070D96E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED55CDEE28D081240070D96E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED55CDF428D090500070D96E /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ED55CDE028D081220070D96E /* AppDelegate.swift */,
 				ED55CDE228D081220070D96E /* SceneDelegate.swift */,
 				ED55CDE428D081220070D96E /* ViewController.swift */,
+				ED55CDF428D090500070D96E /* SecondViewController.swift */,
 				ED55CDE628D081220070D96E /* Main.storyboard */,
 				ED55CDE928D081240070D96E /* Assets.xcassets */,
 				ED55CDEB28D081240070D96E /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED55CDF528D090500070D96E /* SecondViewController.swift in Sources */,
 				ED55CDE528D081220070D96E /* ViewController.swift in Sources */,
 				ED55CDE128D081220070D96E /* AppDelegate.swift in Sources */,
 				ED55CDE328D081220070D96E /* SceneDelegate.swift in Sources */,
